@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "launcher",
+  "displayName": "Launcher",
+  "description": "Describe me",
+  "rootNerdletId": "bed8f3d6-5507-4128-a7a4-dbd8190bb697.home"
+}
